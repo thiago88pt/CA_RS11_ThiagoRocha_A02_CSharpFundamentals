@@ -1,0 +1,14 @@
+
+
+----------------------------------
+1. Algoritimo da média aritimética (2 valores)
+----------------------------------
+
+1. Ler os valores (entrada de dados)
+
+2. Calcular a média (processamento)
+
+3. Mostrar o resultado (saída de dados)
+
+		// Métodos: o que posso fazer com a classe
+		// Propriedades: dados da classe
